@@ -1,2 +1,1 @@
-# BlackbaudSocialite
- Blackbaud extension for Socialite
+Larvel - Blackbaud extension for Socialite
