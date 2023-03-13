@@ -43,7 +43,7 @@ class Provider extends AbstractProvider
     {
         $response = $this->getHttpClient()->get('https://api.sky.blackbaud.com/school/v1/academics/courses/', [
             'headers' => [
-                'Bb-Api-Subscription-Key' => 'd8b4e73f46384c589cc0159a5b97adbb',
+                'Bb-Api-Subscription-Key' => '',
                 'Authorization' => 'Bearer '.$token,
             ],
         ]);
